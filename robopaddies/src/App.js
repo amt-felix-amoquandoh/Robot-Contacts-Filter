@@ -5,7 +5,10 @@ import CardList from "./CardList";
 
 const App = () => {
     return(
-        <CardList contacts={contacts}/>
+        <div>
+            <hi>My Robot Contacts</hi>
+            <CardList contacts={contacts}/>
+        </div>
     )
 }
 
