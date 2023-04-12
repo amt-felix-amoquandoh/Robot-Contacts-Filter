@@ -6,7 +6,7 @@ import CardList from "./CardList";
 const App = () => {
     return(
         <div>
-            <hi>My Robot Contacts</hi>
+            <h1 className="tc">My Robot Contacts</h1>
             <CardList contacts={contacts}/>
         </div>
     )
