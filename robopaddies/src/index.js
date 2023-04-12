@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'tachyons';
 import Card from './Card';
-import { contacts } from "./contacts";
+// import { contacts } from "./contacts";
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
