@@ -4,7 +4,10 @@ const Card = () => {
     return(
         <div>
             <img src="" alt="robot"/>
-            <div></div>
+            <div>
+                <h2>Asher Yoofi</h2>
+                <p>youngknight@gmail.com</p>
+            </div>
         </div>
     )
 }
