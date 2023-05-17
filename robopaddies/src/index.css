@@ -13,6 +13,9 @@ code {
 }
 
 .cardSection {
-  margin-left: auto;
-  margin-right: auto;
+  background-color: teal;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
